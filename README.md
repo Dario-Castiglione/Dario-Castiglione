@@ -6,6 +6,6 @@
 
 My top Langs:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Castiglione)](https://github.com/Dario-Castiglione/github-readme-stats)
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dario-Castiglione&show_icons=true&theme=radical)
 
 <hr>
