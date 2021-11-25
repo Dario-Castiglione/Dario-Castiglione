@@ -10,8 +10,7 @@
 
 <hr>
 
-##My top langs: 
-
+<h2>My top langs:</h2> 
 <br>
 <br>
 
