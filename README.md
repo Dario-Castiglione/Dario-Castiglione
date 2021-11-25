@@ -5,6 +5,7 @@
 [![github](https://img.shields.io/github/followers/Dario-Castiglione?logo=github&style=plastic)](https://github.com/Dario-Castiglione?tab=followers)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Dario-Castiglione=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
