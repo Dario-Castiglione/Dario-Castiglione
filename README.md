@@ -14,3 +14,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dario-Castiglione)](https://github.com/Dario-Castiglione/github-readme-stats)
 
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning React.js 
+- 📫 How to reach me: dario.castiglione99@gmail.com 
